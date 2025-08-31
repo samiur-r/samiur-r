@@ -1,31 +1,30 @@
-<pre>
-- 👋 I have a passion for building excellent software that improves the lives of those around me.
+# Hi, I'm Sami
 
-- 💞️ My Expertise:
+Full-stack engineer @ [Material Index](https://material-index.co.uk)  
+Next.js • Postgres • SST • Applied AI & agent research
 
-  Frotnend   : [ ReactJS, VueJS, NextJS, NuxtJS, Jquery ]
-  
-  Mobile app : [ React Native ]
-  
-  Backend    : [ NodeJS, Laravel, ASP.net, Flask, Django ]
-  
-  CMS        : [ Strapi, Contentful, Storyblok, Prismic, Builder.io ]
+**What I’m building**
+- **Audit platform** for the built environment (e.g., pre-demolition audits): asset registry, compliance reports, data pipelines  
+- **Circular marketplace** for reclaimed materials and reuse
 
-  SSG        : [ Gatsby ]
-  
-  DB         : [ PostgreSQL, MySQL, MSSQL, SQLite, MongoDB, Redis ]
-  
-  ORM/ODM    : [ Mongoose, Typegoose, TypeORM, Sequilize ]
-  
-  Languages  : [ C, C++, C#, Typescript, Javascript, Python, PHP, Java ]
-  
-  UI         : [ Tailwind.css, Material-ui, Styled-components, Vuetify, Bootstrap ]
-   
-- 🌱 I’m currently learning Machine Learing/Artificial Inteligence
+**AI at work**
+- Asset classification & categorization (docs/images/specs)
+- Tracing, evals, and reliability for agentic workflows
 
-</pre>
+**Research**
+- AI agents (planning, tool use, evaluation)
+- Paper: *Toward News Authenticity: Synthesizing NLP and Human Expert Opinion to Evaluate News* (IEEE) — <link>
 
-<!---
-dev-samiur/dev-samiur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tech**
+
+**Web/Infra:** Next.js · TypeScript · Node · Postgres · Prisma · AWS · Python<br>
+**Containers/Orchestration:** Docker · Kubernetes · AWS ECS<br>
+**Infra/IaC:** SST · Terraform<br>
+**Architecture:** Serverless · Microservices · Event-driven<br>
+**Data & Caching:** Redis<br>
+**LLMs/Providers:** OpenAI · Anthropic · Google Gemini<br>
+**ML:** PyTorch · OpenCV<br>
+**Vector Search:** Pinecone · MongoDB Atlas Vector Search
+
+**Links**
+[website/portfolio](https://samiur.vercel.app/) • [email](mailto:samiur.rahman.akif@gmail.com) • [LinkedIn](https://www.linkedin.com/in/samiur-r) • [X](https://x.com/__samiur)
