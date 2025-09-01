@@ -1,9 +1,8 @@
-# Hi, I'm Sami
+# Hi, I'm Sami 
 
-Full-stack engineer @ [Material Index](https://material-index.co.uk)  
-Next.js • Postgres • SST • Applied AI & agent research
+Full-stack engineer and applied AI/agents researcher with 8+ years of experience building production systems. 
 
-**What I’m building**
+**What I’m building** @ [Material Index](https://material-index.co.uk) 
 - **Audit platform** for the built environment (e.g., pre-demolition audits): asset registry, compliance reports, data pipelines  
 - **Circular marketplace** for reclaimed materials and reuse
 
