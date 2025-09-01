@@ -26,4 +26,4 @@ Full-stack engineer and applied AI/agents researcher with 8+ years of experience
 **Vector Search:** Pinecone · MongoDB Atlas Vector Search
 
 **Links**
-[website/portfolio](https://samiur.vercel.app/) • [email](mailto:samiur.rahman.akif@gmail.com) • [LinkedIn](https://www.linkedin.com/in/samiur-r) • [X](https://x.com/__samiur)
+[Website/portfolio](https://samiur.vercel.app/) • [Email](mailto:samiur.rahman.akif@gmail.com) • [LinkedIn](https://www.linkedin.com/in/samiur-r) • [X](https://x.com/__samiur)
