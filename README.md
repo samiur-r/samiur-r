@@ -13,7 +13,7 @@ Next.js • Postgres • SST • Applied AI & agent research
 
 **Research**
 - AI agents (planning, tool use, evaluation)
-- Paper: *Toward News Authenticity: Synthesizing NLP and Human Expert Opinion to Evaluate News* (IEEE) — <link>
+- Publication: *Toward News Authenticity: Synthesizing NLP and Human Expert Opinion to Evaluate News* (IEEE) — <link>
 
 **Tech**
 
